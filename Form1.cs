@@ -38,7 +38,6 @@ namespace PressureConverter
 
                 // Change button state to enabled
                 buttonCalculate.Enabled = true;
-
             }
             else
             {
